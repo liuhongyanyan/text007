@@ -3,3 +3,4 @@ b = 20
 def fun():
     pass
 return a
+fun()
